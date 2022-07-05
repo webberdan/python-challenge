@@ -1,0 +1,9 @@
+
+
+Financial Analysis
+----------------------------
+	total months: 86
+	total value: 22564198
+	total average change: -8311.105882352942
+	greatest increase: 1862002 on Aug-16
+	greatest decrease: -1825558 on Feb-14
