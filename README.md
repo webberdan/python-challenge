@@ -10,7 +10,7 @@ For this challenge we used a .csv file of financial data summarize profit and lo
 
 `main.py` uses os import to read the raw data in the .csv, a series of For loops, indexing, enumeration, and an output variable to summarize the data.
 
-##PyPoll Challenge
+## PyPoll Challenge
 
 In this challenge we analyzed voter data to summarize total votes cast, each candidate's total votes, percentage of votes by candidate and determine a winner. 
 
